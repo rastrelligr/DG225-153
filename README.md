@@ -1,7 +1,7 @@
-# Production Journal — [ชื่อ-นามสกุล]
+# Production Journal — [อรอักษรา อักษรณรงค์]
 
 รายวิชา: Digital Game Production Management
-วันที่เริ่มต้น: [วันที่]
+วันที่เริ่มต้น: [6/23/2569]
 
 ## เกี่ยวกับ Repository นี้
 
